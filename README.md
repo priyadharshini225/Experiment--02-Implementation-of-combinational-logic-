@@ -18,6 +18,8 @@ Logic gates are electronic circuits which perform logical functions on one or mo
  
 
 ## Logic Diagram (using nand gate) and (using nor gate):
+![image](https://github.com/priyadharshini225/Experiment--02-Implementation-of-combinational-logic-/assets/138849213/45817589-6ade-49e7-bdaa-20886e99e840)
+![image](https://github.com/priyadharshini225/Experiment--02-Implementation-of-combinational-logic-/assets/138849213/c173b0ce-4bdb-4801-9b2d-81b74c538b79)
 
 
 ## Procedure:
@@ -52,8 +54,6 @@ endmodule
 
 ## Output:
 ## RTL realization of NAND AND NOR gates:
-![image](https://github.com/priyadharshini225/Experiment--02-Implementation-of-combinational-logic-/assets/138849213/4f83aa40-3884-45c0-b9c7-2d8abca495aa)
-![image](https://github.com/priyadharshini225/Experiment--02-Implementation-of-combinational-logic-/assets/138849213/7ebd6c85-2385-4ef6-8c7f-c127f2ebb1d0)
 
 ## Truthtable of NAND gate:
 ![image](https://github.com/priyadharshini225/Experiment--02-Implementation-of-combinational-logic-/assets/138849213/24364ce7-4c4e-4482-951d-394a31e2cbf0)
