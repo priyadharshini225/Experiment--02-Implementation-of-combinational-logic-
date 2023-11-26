@@ -29,7 +29,7 @@ Logic gates are electronic circuits which perform logical functions on one or mo
 *Create university program(VWF) for getting timing diagram.
 *Give the respective inputs for timing diagram and obtain the results.
 ## Program:
-/*
+```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: PRIYADHARSHINI S
 RegisterNumber: 23003522
@@ -49,7 +49,7 @@ wire g9=((w)&(~x)&(y));
 wire g10=((w)&(x)&(y)); 
 assign f2=g6|g7|g8|g9|g10;
 endmodule
-*/
+```
 
 ## Output:
 ## RTL realization of NAND AND NOR gates:
